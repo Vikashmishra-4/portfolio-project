@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vikash Kumar Mishra - Portfolio</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; }
+  header { background-color: #333; color: #fff; padding: 10px 0; text-align: center; }
+  nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+  section { padding: 20px; max-width: 800px; margin: auto; background: #fff; margin-bottom: 10px; }
+  h2 { border-bottom: 2px solid #333; padding-bottom: 5px; }
+  ul { padding-left: 20px; }
+  footer { text-align: center; padding: 10px; background-color: #333; color: #fff; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Vikash Kumar Mishra</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#education">Education</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About</h2>
+    <p>I am a final-year B.Tech student in Electronics and Communication Engineering at ABES Engineering College (AKTU), with a current CGPA of 8.1. I have strong knowledge of core electronics and hands-on experience in Python, along with exposure to MATLAB, LTSpice, and Xilinx.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <h3>RFID-based Automatic Door Lock System</h3>
+    <p>A secure access system using RFID tags and microcontroller control.</p>
+    <h3>FM Transmitter</h3>
+    <p>Low-power FM transmitter demonstrating modulation concepts.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Core Electronics</li>
+      <li>Python</li>
+      <li>MATLAB</li>
+      <li>LTSpice</li>
+      <li>Xilinx</li>
+    </ul>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <p>ABES Engineering College (AKTU) - B.Tech in Electronics and Communication Engineering (CGPA: 8.1)</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: vikashkumarmishra385@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/vikash-kumar-mishra-013989313">LinkedIn Profile</a></p>
+    <p>GitHub: <a href="https://github.com/users/Vikashmishra-4/projects/1/views/1">GitHub Profile</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Vikash Kumar Mishra</p>
+  </footer>
+</body>
+</html>
